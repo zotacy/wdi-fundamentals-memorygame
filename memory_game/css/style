@@ -1,0 +1,34 @@
+body{
+          text-align: center;
+          }
+h1 {
+           font-family: "Raleway", sans-serif;
+           color: #0D2C40;
+           text-transform: "uppercase"
+           letter-spacing: 1px;
+           font-weight: 200;
+           font-size:45px;
+          }
+a{
+          font-family: "Raleway", sans-serif;
+          text-decoration: none;
+          text-transform: "uppercase"
+          color: #F15B31;
+          letter-spacing: 1px;
+          font-weight: 600;
+          font-size: 18px;
+        }
+          }
+h2{
+          font-family: "Raleway", sans-serif;
+          text-transform: "uppercase"
+          color: #0D2C40;
+          letter-spacing: 1px;
+          font-weight: 600;
+          font-size:20px;
+          }
+p {
+           font-family: "Droid Serif";
+           line-height: 26px;
+           font-size:18px;
+

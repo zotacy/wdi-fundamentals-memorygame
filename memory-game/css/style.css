@@ -23,6 +23,7 @@ TYPOGRAPHY
 ================================ */
 h1, h2 {
   text-transform: uppercase;
+  text-align: center;
 }
 
 h1 {
@@ -82,7 +83,6 @@ MAIN SECTION
 ================================ */
 
 main {
-  width: 850px;
   margin: 35px auto;
 }
 
